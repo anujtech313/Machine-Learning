@@ -1,2 +1,2 @@
 # c-
-my first program
+printf("my first program");
